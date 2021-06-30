@@ -24,4 +24,8 @@ arr[2] = "ad";
 // var arr = ["adfa", "adfadsf", "adf"];
 // 현재 디렉토리에서 변경된 모든파일들에 상태를 보는 명령어
 // git status
+
+// 처음 커밋 만들 때 초기환경 설정
+// git init
+
 console.log(arr);
