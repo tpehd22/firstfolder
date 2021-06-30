@@ -24,4 +24,6 @@ arr[2] = "ad";
 // var arr = ["adfa", "adfadsf", "adf"];
 // 현재 디렉토리에서 변경된 모든파일들에 상태를 보는 명령어
 // git status
+
+// git commit -m "대충 커밋 한 내용" 지금 상태로 버전 사진촬영 주석이다
 console.log(arr);
