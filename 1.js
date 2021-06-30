@@ -29,4 +29,6 @@ arr[2] = "ad";
 // git status
 // git commit -m "대충 커밋 한 내용" 지금 상태로 버전 사진촬영 주석이다
 
+//asdasdsadsad
+
 console.log(arr);
